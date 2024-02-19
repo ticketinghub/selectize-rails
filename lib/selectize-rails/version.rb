@@ -1,5 +1,5 @@
 module Selectize
   module Rails
-    VERSION = '0.12.6'.freeze
+    VERSION = '0.15.2'.freeze
   end
 end
